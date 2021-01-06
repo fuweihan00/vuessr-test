@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/fuweihan00/vuessr-test#readme",
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "better-scroll": "^2.0.4",
     "koa": "^2.13.0"
   }
